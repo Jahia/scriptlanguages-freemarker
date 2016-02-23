@@ -1,0 +1,2 @@
+[jnt:freeMarkerNode] > jnt:content, mix:title, jmix:basicContent
+- freeMarkerText (string) i18n
