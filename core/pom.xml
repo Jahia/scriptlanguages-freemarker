@@ -57,7 +57,9 @@ please contact the sales department at sales@jahia.com.
     <artifactId>scriptlanguages-freemarker</artifactId>
     <name>FreeMarker Script Language integration core module</name>
     <packaging>bundle</packaging>
-    <description>This module provides an integration of the FreeMarker language as a scripting language for Jahia</description>
+    <description>
+        This module provides an integration of the FreeMarker language as a scripting language for Jahia DX
+    </description>
 
     <dependencies>
         <dependency>

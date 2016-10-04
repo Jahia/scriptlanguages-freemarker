@@ -1,6 +1,8 @@
 # scriptlanguages-freemarker
 
-Provides basic support for the FreeMarker scripting language via JSR-223.
+A Jahia Digital Experience Manager (DX) module that provides FreeMarker scripting language support. This module 
+should mostly be considered as a proof-of-concept. It is not recommended to use this code in a production environment.
+For more information about Jahia DX, please go to: https://www.jahia.com/platform/digital-experience-manager
 
 ## Features
 - Makes it possible to use FreeMarker as a scripting languages for Jahia views
