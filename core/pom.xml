@@ -79,6 +79,7 @@ please contact the sales department at sales@jahia.com.
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
+                        <Jahia-Module-Type>system</Jahia-Module-Type>
                         <Export-Package>com.sun.script.freemarker.*</Export-Package>
                     </instructions>
                 </configuration>
